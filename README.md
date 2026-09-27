@@ -12,6 +12,8 @@ This repository only hosts the downloads. There is no source code here.
 
 지난 판은 [Releases](https://github.com/nobles92ts-ship-it/pixling-download/releases) 에 있습니다. · Older versions are under Releases.
 
+안 받아지면 **예비 받기처**: [itch.io — nobles92ts-ship-it.itch.io/pixling](https://nobles92ts-ship-it.itch.io/pixling) (같은 파일) · If the download above doesn't work, the same file is on itch.io.
+
 ## 켜는 법 · How to start
 
 1. zip 을 풉니다. · Unzip it.
