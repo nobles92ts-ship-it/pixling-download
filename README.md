@@ -1,7 +1,9 @@
-# Pixling
+# 깨알 · Kkaeal
 
 **바탕화면 구석에 사는 픽셀 생물을 잡고, 키우고, 체육관에 보내는 Windows 게임입니다. 무료입니다.**
-A free Windows game: pixel creatures live in the corner of your desktop — catch them, raise them, send them into gyms.
+Kkaeal (깨알) — a free Windows game: pixel creatures live in the corner of your desktop — catch them, raise them, send them into gyms.
+
+옛 이름은 Pixling 입니다. 파일·세이브 폴더 이름은 그대로라 새 판으로 덮어써도 생물이 남습니다. · Formerly Pixling — the file and save-folder names stay the same, so your creatures carry over.
 
 이 저장소에는 **내려받을 파일만** 있습니다. 소스 코드는 없습니다.
 This repository only hosts the downloads. There is no source code here.
