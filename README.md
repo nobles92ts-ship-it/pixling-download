@@ -10,7 +10,7 @@ This repository only hosts the downloads. There is no source code here.
 
 ## 받기 · Download
 
-**[Pixling.zip — 최신판 / latest](https://github.com/nobles92ts-ship-it/pixling-download/releases/latest/download/Pixling.zip)** (Windows · 약 38MB)
+**[Pixling.zip — 최신판 / latest](https://github.com/nobles92ts-ship-it/pixling-download/releases/latest/download/Pixling.zip)** (Windows · 약 52MB)
 
 지난 판은 [Releases](https://github.com/nobles92ts-ship-it/pixling-download/releases) 에 있습니다. · Older versions are under Releases.
 
