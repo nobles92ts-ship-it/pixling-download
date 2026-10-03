@@ -10,7 +10,7 @@ This repository only hosts the downloads. There is no source code here.
 
 ## 받기 · Download
 
-**[Pixling.zip — 최신판 / latest](https://github.com/nobles92ts-ship-it/pixling-download/releases/latest/download/Pixling.zip)** (Windows · 약 52MB)
+**[Pixling.zip — 최신판 / latest](https://github.com/nobles92ts-ship-it/pixling-download/releases/latest/download/Pixling.zip)** (Windows · 약 51MB)
 
 지난 판은 [Releases](https://github.com/nobles92ts-ship-it/pixling-download/releases) 에 있습니다. · Older versions are under Releases.
 
@@ -29,7 +29,7 @@ This repository only hosts the downloads. There is no source code here.
 |---|---|
 | 세이브 · Save | `%APPDATA%\Pixling` — 새 판으로 덮어써도 남습니다 · survives updates |
 | 입력 · Input | 누른 **횟수**만 셉니다. 어떤 키인지·무엇을 쳤는지는 세지 않습니다 · Counts presses only — never which key or what you typed |
-| 인터넷 · Network | 접속하지 않습니다 · Never goes online |
+| 인터넷 · Network | 켤 때 한 번 GitHub 에 새 판이 있는지 묻습니다(판 번호만 보냄) · 받기는 동의할 때만 · Asks GitHub once at start whether a newer version exists (sends only its version number); downloads only if you agree |
 | 숨기기 · Hide | `\`(₩) 키 한 번 · One press of `\` |
 | 지원 · Platform | Windows 전용 · Windows only |
 
