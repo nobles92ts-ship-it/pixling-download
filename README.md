@@ -10,7 +10,7 @@ This repository only hosts the downloads. There is no source code here.
 
 ## 받기 · Download
 
-**[깨알.zip — 최신판 / latest](https://github.com/nobles92ts-ship-it/pixling-download/releases/latest/download/Kkaeal.zip)** (Windows · 약 63MB · 받으면 `Kkaeal.zip` 으로 저장됩니다 · saves as `Kkaeal.zip`)
+**[깨알.zip — 최신판 / latest](https://github.com/nobles92ts-ship-it/pixling-download/releases/latest/download/Kkaeal.zip)** (Windows · 약 67MB · 받으면 `Kkaeal.zip` 으로 저장됩니다 · saves as `Kkaeal.zip`)
 
 Release 의 `Pixling.zip` 은 같은 exe 로, 게임 안 자동 업데이트가 씁니다. · `Pixling.zip` in each Release is the same build, used by the in-game updater.
 
