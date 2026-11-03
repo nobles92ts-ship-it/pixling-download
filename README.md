@@ -10,7 +10,7 @@ This repository only hosts the downloads. There is no source code here.
 
 ## 받기 · Download
 
-**[깨알.zip — 최신판 / latest](https://github.com/nobles92ts-ship-it/pixling-download/releases/latest/download/Kkaeal.zip)** (Windows · 약 67MB · 받으면 `Kkaeal.zip` 으로 저장됩니다 · saves as `Kkaeal.zip`)
+**[깨알.zip — 최신판 / latest](https://github.com/nobles92ts-ship-it/pixling-download/releases/latest/download/Kkaeal.zip)** (Windows · 약 78MB · 받으면 `Kkaeal.zip` 으로 저장됩니다 · saves as `Kkaeal.zip`)
 
 Release 의 `Pixling.zip` 은 같은 exe 로, 게임 안 자동 업데이트가 씁니다. · `Pixling.zip` in each Release is the same build, used by the in-game updater.
 
@@ -32,6 +32,9 @@ Release 의 `Pixling.zip` 은 같은 exe 로, 게임 안 자동 업데이트가 
 | 세이브 · Save | `%APPDATA%\Pixling` — 새 판으로 덮어써도 남습니다 · survives updates |
 | 입력 · Input | 누른 **횟수**만 셉니다. 어떤 키인지·무엇을 쳤는지는 세지 않습니다 · Counts presses only — never which key or what you typed |
 | 인터넷 · Network | 켤 때 한 번 GitHub 에 새 판이 있는지 묻습니다(판 번호만 보냄) · 받기는 동의할 때만 · Asks GitHub once at start whether a newer version exists (sends only its version number); downloads only if you agree |
+| 출석 · Attendance | v0.2.8 부터 게임이 켜져 있으면 하루 한 번 이름 없는 번호 · 판 번호 · 퀘스트 단계를 서버(Cloudflare)로 보냅니다. 하루 몇 명이 켰는지, 어느 단계까지 했는지만 셉니다. 번호는 날이 지나면 지우고 합계만 남깁니다. 끄는 설정은 없습니다. 이 표에 접속 주소(IP)는 저장하지 않습니다. 다만 Cloudflare 자체 접속 기록에는 남을 수 있습니다 · From v0.2.8, while running, the game sends an anonymous number, its version and your quest step to the server (Cloudflare) once a day. It only counts how many people played that day and how far they got. The number is deleted after that day and only totals remain. There is no setting to turn it off. That table stores no connection address (IP), though Cloudflare's own access logs may keep it |
+| 이벤트 · Events | 켤 때와 켜져 있는 동안 1시간마다 서버에 이벤트가 있는지 묻습니다 · At start and every hour while running, the game asks the server whether an event is on |
+| 랭킹 · Ranking | 처음에 꺼져 있습니다. 직접 참여를 켠 분만 팀 이름 · 태그 · 출전 팀과 도전 결과를 랭킹 서버로 보냅니다 · Off by default. Only players who turn it on send their team name, tag, active team and challenge results to the ranking server |
 | 숨기기 · Hide | `\`(₩) 키 한 번 · One press of `\` |
 | 지원 · Platform | Windows 전용 · Windows only |
 
