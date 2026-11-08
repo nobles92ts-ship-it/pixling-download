@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "notices": [
+    {
+      "id": 2,
+      "title": "랭킹전 시즌 2 — 11월 9일(월) 0시 무렵 시작",
+      "body": "랭킹전 시즌 2 가 2026-11-09(월) 00:00(한국 시간) 무렵 열립니다.\n점수는 모두 1000 에서 다시 시작합니다.\n시즌 2 에 도전하려면 v0.3.1 이상이 필요합니다.\n\n시즌이 열리기 전까지 새 판으로 한 도전은 점수에 들어가지 않습니다.",
+      "title_en": "Ranked Season 2 starts Nov 9, 00:00 KST",
+      "body_en": "Ranked Season 2 opens around 2026-11-09 (Mon) 00:00 KST.\nEveryone's rating restarts at 1000.\nYou need v0.3.1 or later to challenge in Season 2.\n\nChallenges made with the new version before the season opens are not counted.",
+      "date": "2026-11-08",
+      "pinned": true,
+      "kind": "notice"
+    },
+    {
+      "id": 1,
+      "title": "패치노트 v0.3.2",
+      "body": "· 랭킹전이 한 화면에 — 시즌 · 내 순위 · [도전] · 순위표를 굴리지 않고 봅니다\n· 랭킹전 = 큰 [도전] 단추 하나 · 상대는 비슷한 점수에서 고릅니다\n· 통신 대전 정리 — 친구 코드로 겨루고, 점수는 걸리지 않습니다\n· 친구 — «커뮤니티 › 친구»에 통신 코드로 저장하고 친구대전(보상 · 점수 없음)\n· 공지 게시판 — 지금 보고 계신 이 화면입니다\n· 홈에 «⬆ 업데이트» 단추 · 피카츄 아래 새 판 소식 한 줄\n· 싸움 무대 편 색 — 내 편 파랑 · 상대 빨강\n· 10티어 동료의 마지막 한 방은 늘 필살기 연출\n· 탑 자동사냥 — 수문장이 내려앉은 뒤 싸움 시작\n· 스토리모드 링크는 1화 첫머리로",
+      "title_en": "Patch notes v0.3.2",
+      "body_en": "· Ranked Battles on one screen — season, your rank, [Challenge] and the leaderboard without scrolling\n· Ranked = one big [Challenge] button; the opponent is picked near your rating\n· Link battle cleaned up — battle by a friend's code, no rating at stake\n· Friends — save them by link code in «Community › Friends» and play friend battles (no rewards, no rating)\n· Notice board — the screen you are reading now\n· «⬆ Update» button on the home screen and a new-version line under Pikachu\n· Side colours on the battle stage — yours blue, the opponent red\n· A tier-10 partner's final hit always plays its finisher\n· Tower auto-battle — the fight starts after the guardian lands\n· The story mode link opens at the start of episode 1",
+      "date": "2026-11-08",
+      "kind": "patch"
+    }
+  ]
+}
