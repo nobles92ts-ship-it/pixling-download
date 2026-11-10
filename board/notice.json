@@ -8,7 +8,8 @@
       "title_en": "Mac stability notice — patch coming",
       "body_en": "The Mac version of the game is currently less stable than it should be.\nSorry for the inconvenience.\nWe are working hard on fixes and will release a patch.",
       "date": "2026-11-10",
-      "kind": "notice"
+      "kind": "notice",
+      "pinned": true
     },
     {
       "id": 3,
