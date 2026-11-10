@@ -2,6 +2,16 @@
   "version": 1,
   "notices": [
     {
+      "id": 5,
+      "title": "패치노트 v0.3.4 — 버그 고침",
+      "body": "· 천하통일 리그 — 랭킹전처럼 판을 신고하면 리그 표의 승점 · 승 · 패가 바로 바뀝니다(«밤 확인 전 +n» 표시 · 순위 차례와 체육관장은 밤 확인 뒤)\n· 퀘스트 «열다섯 종» — 조건은 직접 잡은 종류 15종입니다(회복약 구매와 상관없음 · 진화로만 얻은 종은 안 셈). 헷갈리던 안내를 고쳤습니다\n\n제보해 주신 분들 고맙습니다!",
+      "title_en": "Patch notes v0.3.4 — bug fixes",
+      "body_en": "· Conquest League — like Ranking, a reported battle now updates points, wins and losses in the league table at once (marked «pending +n»; order and gym leaders settle after the overnight check)\n· «Fifteen species» quest — the goal is 15 species caught yourself (not buying a Potion; evolution-only ones don't count). The confusing hint is fixed\n\nThanks to everyone who reported these!",
+      "date": "2026-11-10",
+      "pinned": true,
+      "kind": "patch"
+    },
+    {
       "id": 4,
       "title": "맥 버전 안정성 안내 — 패치 예정",
       "body": "현재 맥 버전 게임의 안정성이 떨어진 상태입니다.\n불편을 드려 죄송합니다.\n열심히 고쳐서 패치하겠습니다.",
@@ -18,7 +28,7 @@
       "title_en": "Patch notes v0.3.3 — Conquest League",
       "body_en": "· Conquest League — pick your home turf (city/county/district) and compete in its league\n· Nightly rankings by points · district winner = gym leader → province league → all-Korea championship\n· 20 tickets a day (shared by the three leagues) · the same opponent once a day per league\n· League map — player counts, gym-leader crowns, Jeju, Ulleungdo, Dokdo and an enlarged Seoul inset\n· The gym leader's seat at the top right of the league header\n· Jogress, Undo Jogress, Stop evolution and Allow evolution buttons in Team setup\n· Wild damage numbers float above the monster\n· Updates — a second download path if the usual one fails\n\nLeague battles need Ranking turned on; the district you chose and your results are sent to the ranking server.",
       "date": "2026-11-10",
-      "pinned": true,
+      "pinned": false,
       "kind": "patch"
     },
     {
