@@ -2,6 +2,16 @@
   "version": 1,
   "notices": [
     {
+      "id": 6,
+      "title": "맥 0.3.4 나왔어요 — 업데이트 뒤 입력 권한 다시 넣기",
+      "body": "맥 판 0.3.4 가 나왔습니다. 숨김 · 조작 수치 · 설치 문제를 고쳤습니다.\n업데이트하셨다면 한 번만 해 주세요: 시스템 설정 → 개인정보 보호 및 보안 → 입력 모니터링에서 깨알을 − 로 지우고, 메뉴바 깨알 아이콘 → macOS 입력 권한… 으로 다시 허용한 뒤 깨알을 다시 켭니다.\n맥 판은 맥 전용 페이지에서 받습니다: github.com/nobles92ts-ship-it/pixling-download-mac/releases/latest",
+      "title_en": "Mac 0.3.4 out — re-allow input access",
+      "body_en": "Mac build 0.3.4 is out, fixing hide, input counts and install issues.\nIf you updated, please do this once: System Settings → Privacy & Security → Input Monitoring, remove Kkaeal with −, allow it again from the menu-bar icon → macOS input permission…, then restart Kkaeal.\nGet Mac builds from the Mac page: github.com/nobles92ts-ship-it/pixling-download-mac/releases/latest",
+      "date": "2026-11-10",
+      "kind": "notice",
+      "pinned": true
+    },
+    {
       "id": 5,
       "title": "패치노트 v0.3.4 — 버그 고침",
       "body": "· 천하통일 리그 — 랭킹전처럼 판을 신고하면 리그 표의 승점 · 승 · 패가 바로 바뀝니다(«밤 확인 전 +n» 표시 · 순위 차례와 체육관장은 밤 확인 뒤)\n· 퀘스트 «열다섯 종» — 조건은 직접 잡은 종류 15종입니다(회복약 구매와 상관없음 · 진화로만 얻은 종은 안 셈). 헷갈리던 안내를 고쳤습니다\n\n제보해 주신 분들 고맙습니다!",
@@ -19,7 +29,7 @@
       "body_en": "The Mac version of the game is currently less stable than it should be.\nSorry for the inconvenience.\nWe are working hard on fixes and will release a patch.",
       "date": "2026-11-10",
       "kind": "notice",
-      "pinned": true
+      "pinned": false
     },
     {
       "id": 3,
