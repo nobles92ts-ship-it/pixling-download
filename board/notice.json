@@ -2,6 +2,15 @@
   "version": 1,
   "notices": [
     {
+      "id": 4,
+      "title": "맥 버전 안정성 안내 — 패치 예정",
+      "body": "현재 맥 버전 게임의 안정성이 떨어진 상태입니다.\n불편을 드려 죄송합니다.\n열심히 고쳐서 패치하겠습니다.",
+      "title_en": "Mac stability notice — patch coming",
+      "body_en": "The Mac version of the game is currently less stable than it should be.\nSorry for the inconvenience.\nWe are working hard on fixes and will release a patch.",
+      "date": "2026-11-10",
+      "kind": "notice"
+    },
+    {
       "id": 3,
       "title": "패치노트 v0.3.3 — 천하통일 리그",
       "body": "· 천하통일 리그 — 우리 동네(시·군·구)를 정하고 그 동네 리그에서 겨룹니다\n· 밤마다 승점으로 순위 · 동네 1위 = 체육관장 → 시·도 리그 → 대한민국 최강전\n· 하루 도전표 20장(세 리그 함께) · 같은 상대는 리그마다 하루 한 번\n· 리그 지도 — 선수 수 · 체육관장 왕관 · 제주 · 울릉도 · 독도 · 서해의 큰 서울 칸\n· 리그 머리 칸 오른쪽에 체육관장 자리\n· 편성 칸에 합체 진화 · 합체 풀기 · 진화 정지 · 진화 허용 단추\n· 야생 피해 숫자는 몬스터 머리 위에\n· 업데이트 받기 — 기본 길이 막히면 다른 길로 한 번 더\n\n리그 도전은 랭킹전 참여가 필요하고, 고른 동네와 도전 결과를 랭킹 서버로 보냅니다.",
