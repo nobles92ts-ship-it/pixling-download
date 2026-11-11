@@ -2,6 +2,16 @@
   "version": 1,
   "notices": [
     {
+      "id": 9,
+      "title": "하루 도전 횟수 변경 — 랭킹전 · 리그 10회",
+      "body": "서버를 안정적으로 운영하기 위해 하루 도전 횟수를 줄였습니다.\n· 랭킹전: 하루 20회 → 10회\n· 천하통일 리그: 하루 20회 → 10회 (세 리그 합)\n오늘 이미 10회 넘게 도전하신 분은 오늘은 더 도전할 수 없고, 다음 날부터 다시 10회씩 쓸 수 있습니다.\n랭킹전 도전 창에 «n/20» 으로 보이는 곳은 다음 업데이트에서 10으로 고칩니다.",
+      "title_en": "Daily challenge limit now 10",
+      "body_en": "To keep the server running smoothly, the daily challenge limit has been reduced.\n· Ranked: 20 → 10 per day\n· Conquest League: 20 → 10 per day (shared by the three leagues)\nIf you have already made more than 10 challenges today, you cannot challenge again until tomorrow, when you get 10 again.\nThe «n/20» shown in the Ranked challenge window will be fixed to 10 in the next update.",
+      "date": "2026-11-11",
+      "kind": "notice",
+      "pinned": true
+    },
+    {
       "id": 8,
       "title": "맥 설치 · 입력 권한 켜는 법 (단계별)",
       "body": "[처음 열기]\n1. 받은 DMG 를 열고 깨알을 응용 프로그램 폴더로 끌어 놓습니다\n2. 응용 프로그램에서 깨알을 켭니다\n3. «확인되지 않은 개발자» 창이 뜨면 그 창을 닫습니다\n4. 시스템 설정 → 개인정보 보호 및 보안 → 맨 아래 «그래도 열기»\n5. 다음 창에서 «열기» (암호를 물으면 넣습니다)\n[조작으로 키우기 — 입력 권한]\n1. 화면 위 메뉴바의 깨알 아이콘을 누릅니다\n2. «macOS 입력 권한…» → «입력 모니터링 설정 열기»\n3. 목록에서 깨알 옆 스위치를 켬(ON)으로 바꿉니다\n4. 깨알을 끄고 다시 켭니다\n[업데이트 뒤 조작이 안 먹을 때]\n1. 시스템 설정 → 개인정보 보호 및 보안 → 입력 모니터링\n2. 예전 깨알을 고르고 아래 − 를 누릅니다\n3. 깨알을 다시 켜고 위 1~2번 → 새로 생긴 깨알 스위치를 켬(ON)\n4. 깨알을 끄고 다시 켭니다\nmacOS 15 는 우클릭 «열기»로 여는 길이 없습니다. 자세한 안내: aitryed.com 깨알 페이지 «Mac 에서 켜는 법»",
