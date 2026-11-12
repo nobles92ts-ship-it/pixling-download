@@ -2,6 +2,16 @@
   "version": 1,
   "notices": [
     {
+      "id": 10,
+      "title": "패치노트 v0.3.5 — 영웅의 길 끊김 · 퀘스트 · 도감 카드",
+      "body": "v0.3.5 에서 달라진 것입니다.\n· 영웅의 길 — 탑 100층 뒤 레지기가스 · 그란돈 [도전]이 «판이 끊겼습니다»로 끝나던 문제를 고쳤습니다(제보 감사합니다)\n· 퀘스트 — 한 줄 목표 + «3 / 15» 막대 · 일일은 «파트너 클릭하기 10번» 처럼 할 일을 적었습니다\n· 도감 카드 — «Lv n · 이름» · 내 몸 가장 높은 레벨 값 · 글씨 키움\n· 야생 피해 숫자 색 — 0~9 회색 · 10~99 흰색 · 100~999 주황 · 1000~ 금색\n· 출전 순서 ▲▼ · [바꾸기…] · 모험 메뉴 «체육관 ▸ / 탑 ▸» · 순위표 위 20 + 내 위아래 4\n· 이동 속도 0 = 제자리 · 파트너 건강 말풍선(30분)\n· 높은 티어 성장 속도 · 경험치 사탕 값(250 · 500 · 1,600 G)\n메뉴 «⬆ 업데이트» 로 받을 수 있습니다. 맥 0.3.5 는 맥 전용 저장소에 올립니다.",
+      "title_en": "Patch notes v0.3.5 — Hero's Road fix · quests · Dex cards",
+      "body_en": "What's new in v0.3.5.\n· Hero's Road — challenging Regigigas or Groudon after Tower floor 100 no longer ends with «The battle was cut off» (thanks for the report)\n· Quests — one-line goals with a «3 / 15» bar; the daily quest names the action, e.g. «Click your partner 10 times»\n· Dex cards — «Lv n · Name» at your highest level of that species · larger text\n· Wild damage number colors — 0–9 gray · 10–99 white · 100–999 orange · 1000+ gold\n· Lineup order ▲▼ and [Change…] · Adventure menu «Gym ▸ / Tower ▸» · Leaderboard top 20 plus 4 around you\n· Move speed 0 = stay put · Partner health bubble (every 30 min)\n· Slower top-tier growth · EXP candy prices (250 · 500 · 1,600 G)\nGet it from «⬆ Update» in the menu. Mac 0.3.5 goes to the Mac download repo.",
+      "date": "2026-11-12",
+      "kind": "notice",
+      "pinned": true
+    },
+    {
       "id": 9,
       "title": "하루 도전 횟수 변경 — 랭킹전 · 리그 10회",
       "body": "서버를 안정적으로 운영하기 위해 하루 도전 횟수를 줄였습니다.\n· 랭킹전: 하루 20회 → 10회\n· 천하통일 리그: 하루 20회 → 10회 (세 리그 합)\n오늘 이미 10회 넘게 도전하신 분은 오늘은 더 도전할 수 없고, 다음 날부터 다시 10회씩 쓸 수 있습니다.\n랭킹전 도전 창에 «n/20» 으로 보이는 곳은 다음 업데이트에서 10으로 고칩니다.",
@@ -38,7 +48,7 @@
       "title_en": "Patch notes v0.3.4 — bug fixes",
       "body_en": "· Conquest League — like Ranking, a reported battle now updates points, wins and losses in the league table at once (marked «pending +n»; order and gym leaders settle after the overnight check)\n· «Fifteen species» quest — the goal is 15 species caught yourself (not buying a Potion; evolution-only ones don't count). The confusing hint is fixed\n\nThanks to everyone who reported these!",
       "date": "2026-11-10",
-      "pinned": true,
+      "pinned": false,
       "kind": "patch"
     },
     {
