@@ -8,7 +8,7 @@
       "pinned": true,
       "title": "서버 이용 한도 — 순위·리그가 잠시 안 열려요",
       "body": "지금 천하통일 리그 · 랭킹전 · 영웅의 길(서버를 쓰는 화면)이 «서버에 닿지 않아요» 로 나올 수 있습니다.\n원인은 접속자가 늘어 서버의 하루 이용 한도가 먼저 찬 것입니다. 앱 버전 문제가 아니라서 업데이트하지 않으셔도 됩니다.\n· 한도는 매일 한국 시간 오전 9시에 새로 채워집니다. 그 뒤에는 다시 열립니다\n· 게임 안의 사냥 · 육성 · 저장은 서버와 상관없이 그대로 됩니다\n· 오늘도 같은 시간대에 막힐 수 있어서, 한도를 늘리는 방법을 정하는 중입니다\n불편을 드려 죄송합니다. 제보해 주신 분들 감사합니다.",
-      "title_en": "Server daily limit — rankings and League may be briefly unavailable",
+      "title_en": "Server limit reached - League is down",
       "body_en": "The Tenka League, ranked battles and Hero's Road (screens that use the server) may show «Can't reach the server».\nMore players joined and the server's daily usage limit filled up first. It is not a version problem — no update is needed.\n· The limit refills every day at 09:00 Korea time (00:00 UTC); after that these screens open again\n· Hunting, training and saving inside the game work as usual, with or without the server\n· It may fill up again around the same time, so we are deciding how to raise the limit\nSorry for the trouble, and thank you for the reports."
     },
     {
