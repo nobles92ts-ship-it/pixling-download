@@ -2,6 +2,16 @@
   "version": 1,
   "notices": [
     {
+      "id": 12,
+      "date": "2026-11-13",
+      "kind": "notice",
+      "pinned": true,
+      "title": "진화 밸런스 변경 예정 — 진화가 더 쉬워져요",
+      "body": "진화가 너무 어렵다는 의견이 있어서, 진화를 더 쉽게 할 수 있도록 밸런스를 바꿀 예정입니다.\n· 어떤 조건을 어떻게 낮출지는 정하는 중이며, 정해지면 업데이트 때 패치노트로 알려 드립니다\n의견 남겨 주신 분들 감사합니다.",
+      "title_en": "Evolution balance change planned",
+      "body_en": "Many of you found evolution too hard, so we plan to change the balance to make evolving easier.\n· We are still deciding which requirements to lower and by how much; the details will be in the patch notes of the update\nThank you for the feedback."
+    },
+    {
       "id": 11,
       "date": "2026-11-13",
       "kind": "notice",
