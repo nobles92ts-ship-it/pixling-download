@@ -2,10 +2,20 @@
   "version": 1,
   "notices": [
     {
+      "id": 13,
+      "title": "패치노트 v0.3.6 — 로그인 · 클라우드 세이브 · 게시판",
+      "body": "v0.3.6 에서 달라진 것입니다.\n· 로그인 · 클라우드 세이브(선택) — 설정 «계정 연결»에서 구글로 로그인하면 세이브를 1시간마다 서버에 두고 다른 PC 에서 이어 합니다(한 계정은 한 PC 에서만)\n· 랭킹전 · 천하통일 리그는 로그인 뒤에 — 이미 참여하던 분은 로그인하면 지금 점수가 그대로 이어집니다(로그인 전에는 순위표 · 리그에서 잠시 안 보임 · 점수는 안 지워짐)\n· 게시판 — 패치노트 · 자유 · 버그 및 문의 탭 · 로그인하면 글과 댓글을 씁니다\n· 10티어 필살 배경 6종 · 디아블로몬 레이드 끊김 고침 · 진화가 더 빨리(메인 진화 2 · 3 · 4일)\n· 초보자 길 막히던 단계 고침 · 허브 정리 · 싸움 창 «작게» 기본 · 켜 둔 동안 1시간마다 새 판 확인\n메뉴 «⬆ 업데이트» 로 받을 수 있습니다. 맥 0.3.6 은 맥 전용 저장소에 올립니다.",
+      "title_en": "Patch notes v0.3.6 — sign-in · cloud save · Board",
+      "body_en": "What's new in v0.3.6.\n· Sign-in · cloud save (optional) — sign in with Google under Settings «Account» to keep your save on the server every hour and continue on another PC (one PC per account at a time)\n· Ranked battles · Unification League need sign-in — if you already took part, your score carries over when you sign in (until then you're hidden from the leaderboard and league; nothing is deleted)\n· Board — Patch notes · Free · Bugs & questions tabs; sign in to post and comment\n· Six tier-10 finisher backgrounds · Diaboromon raid fix · faster evolution (main evolutions about 2 · 3 · 4 days)\n· Beginner's Path fixes · hub tidy-up · small battle window by default · hourly update check while running\nGet it from «⬆ Update» in the menu. Mac 0.3.6 goes to the Mac download repo.",
+      "date": "2026-11-15",
+      "kind": "notice",
+      "pinned": true
+    },
+    {
       "id": 12,
       "date": "2026-11-13",
       "kind": "notice",
-      "pinned": true,
+      "pinned": false,
       "title": "진화 밸런스 변경 예정 — 진화가 더 쉬워져요",
       "body": "진화가 너무 어렵다는 의견이 있어서, 진화를 더 쉽게 할 수 있도록 밸런스를 바꿀 예정입니다.\n· 어떤 조건을 어떻게 낮출지는 정하는 중이며, 정해지면 업데이트 때 패치노트로 알려 드립니다\n의견 남겨 주신 분들 감사합니다.",
       "title_en": "Evolution balance change planned",
@@ -29,7 +39,7 @@
       "body_en": "What's new in v0.3.5.\n· Hero's Road — challenging Regigigas or Groudon after Tower floor 100 no longer ends with «The battle was cut off» (thanks for the report)\n· Quests — one-line goals with a «3 / 15» bar; the daily quest names the action, e.g. «Click your partner 10 times»\n· Dex cards — «Lv n · Name» at your highest level of that species · larger text\n· Wild damage number colors — 0–9 gray · 10–99 white · 100–999 orange · 1000+ gold\n· Lineup order ▲▼ and [Change…] · Adventure menu «Gym ▸ / Tower ▸» · Leaderboard top 20 plus 4 around you\n· Move speed 0 = stay put · Partner health bubble (every 30 min)\n· Slower top-tier growth · EXP candy prices (250 · 500 · 1,600 G)\nGet it from «⬆ Update» in the menu. Mac 0.3.5 goes to the Mac download repo.",
       "date": "2026-11-12",
       "kind": "notice",
-      "pinned": true
+      "pinned": false
     },
     {
       "id": 9,
