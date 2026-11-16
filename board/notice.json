@@ -2,6 +2,16 @@
   "version": 1,
   "notices": [
     {
+      "id": 15,
+      "title": "«인터넷 연결 불가»가 뜨면 — 최신 판으로 업데이트해 주세요",
+      "body": "«인터넷에 닿지 못했습니다» · «서버에 닿지 못했습니다»가 뜨는 문제는 최신 판(v0.3.7)으로 업데이트하면 해결됩니다.\n· 메뉴 «⬆ 업데이트» 로 받을 수 있습니다\n· 맥은 맥 전용 저장소의 최신 판을 받아 주세요\n불편을 드려 죄송합니다.",
+      "title_en": "Can't connect? Update to the latest",
+      "body_en": "If you see «Couldn't reach the internet» or «Couldn't reach the server», updating to the latest version (v0.3.7) fixes it.\n· Get it from «⬆ Update» in the menu\n· On Mac, download the latest version from the Mac download repo\nSorry for the trouble.",
+      "date": "2026-11-16",
+      "kind": "notice",
+      "pinned": true
+    },
+    {
       "id": 14,
       "title": "패치노트 v0.3.7 — 버그 고침",
       "body": "v0.3.7 은 버그를 고친 판입니다.\n· 게시판 글 · 댓글에 쓴 사람 이름이 나옵니다(닉이 없으면 «트레이너 #XXXX») · 예전 «익명» 글도 이름으로 바뀝니다\n· 게시판 찾기는 로그인한 뒤에 씁니다(로그인 전에는 찾기 칸이 잠기고 안내가 뜹니다)\n· 글을 보다 인터넷이 끊기면 [다시 시도] · [목록으로]가 나옵니다(«불러오는 중…» 멈춤 고침)\n· 디지바이스 «작게 접기»에 마우스를 올리면 펴는 법이 뜨고, 크기를 고르면 «맨 위»로 펴집니다\n· 허브를 좁게 했을 때 설정 · 계정 연결 · 게시판 제목 글자 잘림 고침 · 계정 쪽 단추 위 휠 고침\n메뉴 «⬆ 업데이트» 로 받을 수 있습니다. 맥 0.3.7 은 맥 전용 저장소에 올립니다.",
