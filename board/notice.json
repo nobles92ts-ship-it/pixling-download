@@ -19,7 +19,7 @@
       "body_en": "If you see «Couldn't reach the internet» or «Couldn't reach the server», updating to the latest version (v0.3.7) fixes it.\n· Get it from «⬆ Update» in the menu\n· On Mac, download the latest version from the Mac download repo\nSorry for the trouble.",
       "date": "2026-11-16",
       "kind": "notice",
-      "pinned": true
+      "pinned": false
     },
     {
       "id": 14,
