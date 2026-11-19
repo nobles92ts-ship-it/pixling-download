@@ -2,6 +2,16 @@
   "version": 1,
   "notices": [
     {
+      "id": 17,
+      "title": "패치노트 v0.3.9 — 새 디지몬 · 한계돌파",
+      "body": "v0.3.9 에서 달라진 것입니다.\n· 새 디지몬 229종(새 그림 61종) · 디지몬 이름은 모두 한글\n· 로얄나이츠 필살기 — 크레니엄몬 «에너지 샷» · 슬레이프몬 «무스펠헤임»\n· «한계초과» 이름이 «한계돌파»로 바뀌었고, 한계돌파를 할 수 있게 되면 디지바이스가 알려 줍니다\n· 카드 타입 = 대전 타입 · 편성 단추 «동료로 편성 — 보유 N개» · 사냥 중 떨림 고침\n· 계정 연결 화면 정리 · 로그인 뒤 [서버에서 불러오기](덮기 전 이 PC 세이브 보관)\n· 10티어는 경험치 사탕(대)로 부른 야생에서만 나옵니다(편성 평균 9티어 이상 · 한 마리에 3.75%)\n· 게시판 버그 고침(#34 · #41 · #40 · #38 · #58) · 아직 못 잡은 새 디지몬 도감 큰 그림\n· 공지에도 댓글을 달 수 있어요(하루 1번)\n· 0.3.8부터 같은 종은 2마리까지예요. 예전에 올린 방어 팀은 다시 올리면 새 규칙으로 바뀌어요\n메뉴 «⬆ 업데이트» 로 받아 주세요. 맥 0.3.9 는 맥 전용 저장소에 있습니다.",
+      "title_en": "Patch v0.3.9 — new Digimon · Limit Break",
+      "body_en": "What's new in v0.3.9.\n· 229 new Digimon (61 with new art) · Digimon names in Korean in the Korean UI\n· Royal Knights finishers — Craniummon «에너지 샷» · Sleipmon «무스펠헤임»\n· The Digivice now tells you when a partner can Limit Break (Korean name changed to «한계돌파»)\n· Card types match battle types · the party button shows «Add to team — N owned» · hunting jitter fixed\n· Account page cleanup · [Load from server] after sign-in (your local save is backed up first)\n· Tier 10 appears only among wilds called with an EXP Candy (L) (party average tier 9+, 3.75% each)\n· Board bug fixes (#34 · #41 · #40 · #38 · #58) · big Dex art for new Digimon you haven't caught yet\n· You can now comment on notices (once a day)\n· Since 0.3.8 a team can hold at most 2 of the same species. Defence teams uploaded earlier switch to the new rule when you upload them again\nGet it from «⬆ Update» in the menu. Mac 0.3.9 is in the Mac download repo.",
+      "date": "2026-11-19",
+      "kind": "notice",
+      "pinned": true
+    },
+    {
       "id": 16,
       "title": "패치노트 v0.3.8 — 새 포켓몬 · 한계초과",
       "body": "v0.3.8 에서 달라진 것입니다.\n· 새 포켓몬 398종(5세대 일부 · 6~9세대) — 랭킹전 · 리그는 다음 시즌부터, 친구 통신 대전은 바로 나갑니다\n· 테라파고스가 테라스탈폼 → 스텔라폼으로 진화하고, 무한다이노 필살기 «무한다이빔»이 생겼습니다\n· 한계초과 — Lv99 동료에게 같은 모습 몬스터를 바치면 최대 레벨이 한 칸씩 올라 Lv200 까지 갑니다\n· 도감 «진화 길»(못 잡은 종도 보임) · «보유»는 지금 그 모습인 몸 수\n· 랭킹전 · 리그 벤 리스트 · 팀에 같은 종은 2마리까지\n· 클라우드 세이브는 더 많이 플레이한 쪽을 원본으로 추천 · 큰 세이브를 덮으면 경고\n· 도감 숫자 · 카드 글 크게 · 시작 메뉴 바로 가기 · 로그인 실패 까닭 안내 · 오물폭탄 연출\n랭킹전 · 리그 도전은 0.3.8 부터 할 수 있습니다. 메뉴 «⬆ 업데이트» 로 받아 주세요. 맥 0.3.8 은 맥 전용 저장소에 있습니다.",
@@ -9,7 +19,7 @@
       "body_en": "What's new in v0.3.8.\n· 398 new Pokémon (part of Gen 5, Gen 6–9) — Ranked and League from next season, friend battles right away\n· Terapagos evolves into its Terastal and Stellar Forms, and Eternatus gets its finisher «Eternabeam»\n· Limit Break — offer same-form monsters to a Lv99 partner to raise its level cap step by step, up to Lv200\n· Evolution routes in the Dex (even for species you haven't caught) · «owned» counts bodies in that form\n· Ranked/League ban list · at most 2 of the same species per team\n· Cloud save recommends the more-played save and warns before overwriting a bigger one\n· Bigger Dex numbers and card text · Start menu shortcut · clearer sign-in errors · new Sludge Bomb effect\nRanked and League challenges need v0.3.8 — get it from «⬆ Update» in the menu. Mac 0.3.8 is in the Mac download repo.",
       "date": "2026-11-18",
       "kind": "notice",
-      "pinned": true
+      "pinned": false
     },
     {
       "id": 15,
