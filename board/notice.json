@@ -2,6 +2,16 @@
   "version": 1,
   "notices": [
     {
+      "id": 18,
+      "title": "패치노트 v0.4.0 — 스토리 모드와 시즌 3",
+      "body": "관동에서 성도까지, 지우와 테일이의 모험이 열렸어요. 허브의 모험 → 스토리 모드에서 ‘스토리 모드 다운로드’를 한 번 누르면 ‘스토리 모드 시작’이 나타나요. 새 스토리가 나오면 원할 때 업데이트해서 기존 저장부터 이어갈 수 있어요.\n\n스토리 진행으로 팔라딘을 성장시킬 수 있어요. 한계돌파 때는 키울 개체와 재료로 쓸 개체를 직접 선택하세요.\n\n랭킹·천하통일 리그 시즌 3이 시작됐어요. 새 시즌에 리그 지역을 먼저 고르고 방어 팀을 등록하세요. 시즌 2 랭킹 1~3위는 금·은·동 메달로, 리그 관장은 지역별 관장 표식으로 확인할 수 있어요.\n\n윈도우는 허브의 ‘업데이트’에서 받을 수 있어요. Windows와 Apple Silicon Mac 설치 파일은 공식 다운로드 페이지에 있어요.",
+      "title_en": "Patch v0.4.0 — Story Mode and Season 3",
+      "body_en": "Kanto and Johto are open in Story Mode. In the hub, open Adventure, choose Story Mode Download, then Start Story Mode. Later story updates are optional and you can continue from your save. Progress through the story to grow Paladin. In Limit Break, choose both the individual partner and the material partners yourself.\n\nSeason 3 is live in Ranked and League. Choose your region and register your defense team again. The top three from Ranked Season 2 receive medals, and regional League leaders have titles. Get the update from the Windows hub, or download the Windows or Apple Silicon Mac build from the official page.",
+      "date": "2026-11-25",
+      "kind": "notice",
+      "pinned": true
+    },
+    {
       "id": 17,
       "title": "패치노트 v0.3.9 — 새 디지몬 · 한계돌파",
       "body": "v0.3.9 에서 달라진 것입니다.\n· 새 디지몬 229종(새 그림 61종) · 디지몬 이름은 모두 한글\n· 로얄나이츠 필살기 — 크레니엄몬 «에너지 샷» · 슬레이프몬 «무스펠헤임»\n· «한계초과» 이름이 «한계돌파»로 바뀌었고, 한계돌파를 할 수 있게 되면 디지바이스가 알려 줍니다\n· 카드 타입 = 대전 타입 · 편성 단추 «동료로 편성 — 보유 N개» · 사냥 중 떨림 고침\n· 계정 연결 화면 정리 · 로그인 뒤 [서버에서 불러오기](덮기 전 이 PC 세이브 보관)\n· 10티어는 경험치 사탕(대)로 부른 야생에서 아주 드물게 나와요\n· 게시판 버그 고침(#34 · #41 · #40 · #38 · #58) · 아직 못 잡은 새 디지몬 도감 큰 그림\n· 공지에도 댓글을 달 수 있어요(하루 1번)\n· 0.3.8부터 같은 종은 2마리까지예요. 예전에 올린 방어 팀은 다시 올리면 새 규칙으로 바뀌어요\n메뉴 «⬆ 업데이트» 로 받아 주세요. 맥 0.3.9 는 맥 전용 저장소에 있습니다.",
@@ -9,7 +19,7 @@
       "body_en": "What's new in v0.3.9.\n· 229 new Digimon (61 with new art) · Digimon names in Korean in the Korean UI\n· Royal Knights finishers — Craniummon «에너지 샷» · Sleipmon «무스펠헤임»\n· The Digivice now tells you when a partner can Limit Break (Korean name changed to «한계돌파»)\n· Card types match battle types · the party button shows «Add to team — N owned» · hunting jitter fixed\n· Account page cleanup · [Load from server] after sign-in (your local save is backed up first)\n· Tier 10 wilds now show up, very rarely, only among wilds called with an EXP Candy (L)\n· Board bug fixes (#34 · #41 · #40 · #38 · #58) · big Dex art for new Digimon you haven't caught yet\n· You can now comment on notices (once a day)\n· Since 0.3.8 a team can hold at most 2 of the same species. Defence teams uploaded earlier switch to the new rule when you upload them again\nGet it from «⬆ Update» in the menu. Mac 0.3.9 is in the Mac download repo.",
       "date": "2026-11-19",
       "kind": "notice",
-      "pinned": true
+      "pinned": false
     },
     {
       "id": 16,
